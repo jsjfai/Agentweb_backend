@@ -1,0 +1,12 @@
+{
+  "LLMConfigure_qwen3": {
+    "api_key": "sk-2310a8fb5a344a79b96dfa6188cc9cfe",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1/",
+    "model": "qwen3-coder-flash"
+  },
+  "LLMConfigure_deepseek": {
+    "api_key": "sk-7d616777514f426f844679f01157b47f",
+    "base_url": "https://api.deepseek.com/v1",
+    "model": "deepseek-chat"
+  }
+}
